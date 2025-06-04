@@ -1,4 +1,5 @@
 APB Protocol Development
+
 📘 Overview
 The Advanced Peripheral Bus (APB) protocol is optimized for low-power, low-latency, and simple communication between system-on-chip (SoC) peripherals such as GPIO, UART, SPI, and timers. It acts as a bridge between high-speed buses like AHB/AXI and low-performance peripherals.
 
